@@ -17,7 +17,7 @@ var backupDirectory = "[HDDName]";
 var bucketName      = "[BucketNameHere"];
 
 /**
-	Confirm and delete
+	Confirm and delete.
 */
 //=======================================================================
 function confirmAndDelete(filename)
